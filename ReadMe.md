@@ -1,5 +1,7 @@
 # 💫 About Me:
-Your friendly neighborhood MERN Stack Developer.<br>I am currently working on my project "Spenny".<br>I am learning React and I am really interested in trying up DevOps.<br>
+### Hey there! 🙋‍♂️ <br>
+#### I am Chetan, and I am a MERN stack web developer💻.<br>
+#### I hope you get find something great on my profile. 
 
 
 ## 🌐 Socials:
